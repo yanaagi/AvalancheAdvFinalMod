@@ -1,0 +1,28 @@
+[10-03|07:38:57.480] DEBUG client/client.go:70 dialing server at  {"endpoint": "0.0.0.0:12352"}
+[10-03|07:38:57.481] INFO client/client.go:139 start
+[10-03|07:39:15.169] DEBUG client/client.go:70 dialing server at  {"endpoint": "0.0.0.0:12352"}
+[10-03|07:39:16.170] INFO client/client.go:139 start
+[10-03|07:41:06.677] DEBUG client/client.go:70 dialing server at  {"endpoint": "0.0.0.0:12352"}
+[10-03|07:41:07.678] INFO client/client.go:139 start
+[10-03|07:42:27.095] DEBUG client/client.go:70 dialing server at  {"endpoint": "0.0.0.0:12352"}
+[10-03|07:42:28.097] INFO client/client.go:139 start
+[10-03|07:46:55.726] DEBUG client/client.go:70 dialing server at  {"endpoint": "0.0.0.0:12352"}
+[10-03|07:46:56.727] INFO client/client.go:139 start
+[10-03|07:52:01.865] DEBUG client/client.go:70 dialing server at  {"endpoint": "0.0.0.0:12352"}
+[10-03|07:52:02.866] INFO client/client.go:139 start
+[10-03|07:59:19.269] DEBUG client/client.go:70 dialing server at  {"endpoint": "0.0.0.0:12352"}
+[10-03|07:59:19.270] INFO client/client.go:139 start
+[10-03|08:05:07.314] DEBUG client/client.go:70 dialing server at  {"endpoint": "0.0.0.0:12352"}
+[10-03|08:05:07.314] INFO client/client.go:139 start
+[10-03|08:20:21.003] DEBUG client/client.go:70 dialing server at  {"endpoint": "0.0.0.0:12352"}
+[10-03|08:20:22.005] INFO client/client.go:139 start
+[10-03|08:20:53.329] DEBUG client/client.go:70 dialing server at  {"endpoint": "0.0.0.0:12352"}
+[10-03|08:20:53.330] INFO client/client.go:139 start
+[10-03|08:21:11.513] DEBUG client/client.go:70 dialing server at  {"endpoint": "0.0.0.0:12352"}
+[10-03|08:21:11.513] INFO client/client.go:139 start
+[10-03|08:21:24.910] DEBUG client/client.go:70 dialing server at  {"endpoint": "0.0.0.0:12352"}
+[10-03|08:21:25.911] INFO client/client.go:139 start
+[10-03|08:27:36.631] DEBUG client/client.go:70 dialing server at  {"endpoint": "0.0.0.0:12352"}
+[10-03|08:27:37.633] INFO client/client.go:139 start
+[10-03|08:27:38.699] INFO client/client.go:148 create blockchains
+[10-03|08:29:13.059] INFO client/client.go:181 status
